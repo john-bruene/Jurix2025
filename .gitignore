@@ -1,0 +1,38 @@
+# Quarto
+/.quarto/
+_site/
+_book/
+_freeze/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+*~
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
