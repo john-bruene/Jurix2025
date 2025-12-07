@@ -1,0 +1,126 @@
+---
+title: "Jurix 2025 Presentation"
+subtitle: "Legal Informatics and AI"
+author: "Your Name"
+date: "December 2025"
+format:
+  revealjs:
+    theme: serif
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    logo: ""
+    footer: "Jurix 2025 - Legal Informatics Conference"
+    incremental: false
+---
+
+## Welcome to Jurix 2025
+
+- International Conference on Legal Knowledge and Information Systems
+- Bringing together researchers and practitioners
+- Focus on AI, Law, and Technology
+
+## Overview {.smaller}
+
+::: {.incremental}
+- Introduction to the topic
+- Main research questions
+- Methodology
+- Results and findings
+- Discussion
+- Future work
+:::
+
+## Introduction
+
+### Background
+
+- Current state of legal informatics
+- Challenges in the field
+- Opportunities with AI and machine learning
+
+## Research Questions
+
+1. **Question 1**: Primary research focus
+2. **Question 2**: Secondary considerations
+3. **Question 3**: Future implications
+
+## Methodology
+
+::: {.columns}
+::: {.column width="50%"}
+### Approach
+- Data collection
+- Analysis methods
+- Validation techniques
+:::
+
+::: {.column width="50%"}
+### Tools & Technologies
+- Software frameworks
+- Libraries used
+- Infrastructure
+:::
+:::
+
+## Results
+
+### Key Findings
+
+- Finding 1: Main result
+- Finding 2: Supporting evidence
+- Finding 3: Additional insights
+
+## Data Visualization
+
+*[Add your charts and visualizations here]*
+
+- Visual representations of key findings
+- Comparative analysis charts
+- Statistical summaries
+
+## Discussion
+
+### Implications
+
+- Impact on legal practice
+- Theoretical contributions
+- Practical applications
+
+## Limitations
+
+- Scope constraints
+- Data limitations
+- Methodological considerations
+
+## Future Work
+
+::: {.incremental}
+- Extended research directions
+- Potential collaborations
+- Implementation plans
+:::
+
+## Conclusion
+
+### Summary
+
+- Recap of main findings
+- Key takeaways
+- Call to action
+
+## Thank You! {.center}
+
+### Questions?
+
+Contact: your.email@example.com
+
+---
+
+*Jurix 2025 - International Conference on Legal Knowledge and Information Systems*
+
+## References {.smaller}
+
+::: {#refs}
+<!-- References will be automatically inserted here if using bibliography -->
+:::
