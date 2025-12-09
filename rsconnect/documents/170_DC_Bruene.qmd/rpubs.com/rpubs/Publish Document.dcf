@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1378432/38caec4b99a84f7a819804c5a3e0ac92
+bundleId: https://api.rpubs.com/api/v1/document/1378432/38caec4b99a84f7a819804c5a3e0ac92
+url: http://rpubs.com/john-bruene/1378432
+version: 1
