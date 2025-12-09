@@ -34,11 +34,7 @@ execute:
 
 <br>
 
-::: {style="margin-top: 1.5rem; font-size: 90%;"}
-[<i class="fa-brands fa-github"></i> <a href="https://github.com/john-bruene">github.com/john-bruene</a>]{style="margin-right: 2rem;"} <i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/john-f-br%C3%BCne/">linkedin.com/in/john-bruene</a>
-:::
-
-<h3> `r fontawesome::fa("github", "black")` &nbsp; [github.com/jthomasmock/arrow-dplyr](https://github.com/jthomasmock/arrow-dplyr)
+<h3> `r fontawesome::fa("github", "black")` &nbsp; [github.com/john-bruene/Jurix2025](https://github.com/john-bruene/Jurix2025)
 
 <!-- FutureData4EU banner, small and subtle above disclaimer -->
 
@@ -70,8 +66,7 @@ Views and opinions expressed are those of the author only and do not necessarily
 -   [Methods](#sec-methods)
 -   [From Symbolic to Neuro-Symbolic AI](#sec-background)
 -   [Case Study](#sec-case)
--   [Expected Contributions](#sec-contributions)
--   [Status and Next Steps](#sec-steps)#
+-   [Status and Next Steps](#sec-steps)
 
 
 # Problem / Motivation {#sec-motivation}
